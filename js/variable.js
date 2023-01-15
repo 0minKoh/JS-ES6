@@ -42,7 +42,7 @@ if (false) {
   func()
 }
 
-if (true) {
+if (false) {
   for (let i = 0; i < 6; i++) {
     setTimeout(() => {console.log(i)}, i*1000)
     // setTimeout(() => {console.log(i)}, i*1000 ); 
