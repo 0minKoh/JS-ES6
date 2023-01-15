@@ -24,4 +24,3 @@ var sum = 0
 document.getElementById('버튼').addEventListener('click', function(){
   setTimeout(() => {console.log(this.innerHTML)}, 1000)
 });
-
