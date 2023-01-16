@@ -28,7 +28,7 @@ if (false) {
   // 3번 다시보기
 }
 
-if (true) {
+if (false) {
   class Unit {
     constructor(attack = 5, health = 100) {
       this.attack = attack
